@@ -4,7 +4,7 @@
 #
 Name     : rubygem-sass-rails
 Version  : 5.0.4
-Release  : 4
+Release  : 5
 URL      : https://rubygems.org/downloads/sass-rails-5.0.4.gem
 Source0  : https://rubygems.org/downloads/sass-rails-5.0.4.gem
 Summary  : No detailed summary available
